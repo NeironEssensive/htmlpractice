@@ -13,4 +13,4 @@
 <p>И ногою - топ!
 <p>(Топаем ногой)
   
-![pampam] (images.jpg)
+![pampam](images.jpg)

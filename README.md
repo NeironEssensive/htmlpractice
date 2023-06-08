@@ -1,5 +1,17 @@
 # htmlpractice
 ## А ВОТ ВАМ И СТИШОК
+<p>Мишка косолапый
+<p>По лесу идет,
+<p>(Бодро шагаем)
+<p>Шишки собирает,
+<p>Песенки поет.
+<p>( Приседаем - собираем шишки)
+<p>Шишка отскочила
+<p>Прямо мишке в лоб.
+<p>(Держимся ручками за лоб)
+<p>Мишка рассердился
+<p>И ногою - топ!
+<p>(Топаем ногой)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">

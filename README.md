@@ -12,4 +12,4 @@
 <p>Мишка рассердился
 <p>И ногою - топ!
 <p>(Топаем ногой)
-![Alt t ext](C:/pupu/images.jpg)
+<p> ![Alt text](C:/pupu/images.jpg)

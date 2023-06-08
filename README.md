@@ -12,4 +12,4 @@
 <p>Мишка рассердился
 <p>И ногою - топ!
 <p>(Топаем ногой)
-<p> ![Alt t ext](C:/pupu/images.jpg)
+<p> <a href="https://avatanplus.com/files/resources/original/5ae30ae50108f16306e28e8c.png"> "ajaj" </a>
